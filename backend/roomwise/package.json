@@ -1,0 +1,13 @@
+{
+  "name": "roomwise",
+  "version": "1.0.0",
+  "description": "Roomwise classroom allocation: REST backend + frontend",
+  "main": "server/server.js",
+  "scripts": {
+    "start": "node server/server.js",
+    "test": "node server/test.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
